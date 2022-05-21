@@ -3,6 +3,8 @@
 [Rust on Steam](https://store.steampowered.com/app/252490/Rust/)
 Python scipt check if player is currenlty on the server.
 
+Program uses [battlemetrics.com](https://www.battlemetrics.com/)
+
 
 ## Usage
 ```console
